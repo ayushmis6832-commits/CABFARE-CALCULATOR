@@ -28,4 +28,4 @@ Peak time: 1
 Total Fare: ₹225
 
 ## 👨‍💻 Author
-Your Name
+AYUSH KUMAR MISHRA
